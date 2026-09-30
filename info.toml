@@ -1,0 +1,11 @@
+[meta]
+name = "Two-Tone Balls"
+version = "0.1.0"
+author = "AnythingGoes"
+description = "Ten two-tone balls: clear glass with the lower half in colour (red, orange, yellow, lime, green, teal, blue, purple, pink, black)."
+min_host = "0.14.0"
+dependencies = ["cosmetic-kit"]
+
+[script]
+files = ["main.as"]
+assets = ["previews/*.png", "models/*.txt"]

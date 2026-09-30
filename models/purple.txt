@@ -1,0 +1,5 @@
+# Purple: a clear ball with its lower half purple glass, rolling with the ball.
+material tint glass #8a2cff opacity=0.45
+
+group shell
+bowl tint r=49.5 wall=0.8

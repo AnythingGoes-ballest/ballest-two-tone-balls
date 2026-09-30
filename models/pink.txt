@@ -1,0 +1,5 @@
+# Pink: a clear ball with its lower half pink glass, rolling with the ball.
+material tint glass #ff3ca8 opacity=0.45
+
+group shell
+bowl tint r=49.5 wall=0.8

@@ -1,0 +1,5 @@
+# Yellow: a clear ball with its lower half yellow glass, rolling with the ball.
+material tint glass #ffd21a opacity=0.45
+
+group shell
+bowl tint r=49.5 wall=0.8

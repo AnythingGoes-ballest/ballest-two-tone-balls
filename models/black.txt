@@ -1,0 +1,5 @@
+# Black: a clear ball with its lower half black glass, rolling with the ball.
+material tint glass #101014 opacity=0.85
+
+group shell
+bowl tint r=49.5 wall=0.8

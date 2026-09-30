@@ -1,0 +1,5 @@
+# Green: a clear ball with its lower half green glass, rolling with the ball.
+material tint glass #16c83a opacity=0.45
+
+group shell
+bowl tint r=49.5 wall=0.8
